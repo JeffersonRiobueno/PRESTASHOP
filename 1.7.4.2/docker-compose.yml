@@ -19,3 +19,5 @@ services:
         ports: 
         - "8888:80"
 
+#correo: demo@demo.com
+#clave: 123456789
